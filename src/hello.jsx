@@ -2,8 +2,8 @@ import React from 'react'
 
 function Hello() {
   return (
-    <div>H</div>
+    <div>Hello</div>
   )
 }
 
-export default Hello;
+export default Hello
